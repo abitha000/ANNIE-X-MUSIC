@@ -13,7 +13,7 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Specify where to get the following credentials
 OWNER_USERNAME = getenv("OWNER_USERNAME", "lochakpochak")
-BOT_USERNAME = getenv("BOT_USERNAME", "sarahmuisic_bot)
+BOT_USERNAME = getenv("BOT_USERNAME", "sarahmuisic_bot")
 BOT_NAME = getenv("BOT_NAME", "˹𝐀ɴɴɪᴇ ✘ 𝙼ᴜsɪᴄ˼ ♪")
 ASSUSERNAME = getenv("ASSUSERNAME", "Quin_sarah")
 EVALOP = list(map(int, getenv("EVALOP", "6797202080").split()))
